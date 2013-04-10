@@ -1,5 +1,9 @@
 # pymenu
 
+## Author
+Michel Lavoie
+miek770(at)gmail.com
+
 ## Description
 
 Application menu sorted by categories, using python3 and dmenu2
