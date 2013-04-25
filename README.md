@@ -10,3 +10,4 @@ This script generates an application menu with dmenu from the *.desktop files in
 
 *    python3
 *    dmenu2
+*    sqlite3
